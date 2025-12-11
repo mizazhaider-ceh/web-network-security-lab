@@ -2,6 +2,10 @@
 
 **Combined penetration testing lab covering SQL Injection exploitation and network traffic analysis**
 
+[![Lab Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)]()
+[![Institution](https://img.shields.io/badge/Institution-HOWEST-blue?style=flat-square)]()
+[![Course](https://img.shields.io/badge/Course-Cyber%20Security%20Essentials-orange?style=flat-square)]()
+
 ## 🎓 Academic Context
 
 **Institution:** Howest University of Applied Sciences  
