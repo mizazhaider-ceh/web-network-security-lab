@@ -6,6 +6,29 @@
 [![Institution](https://img.shields.io/badge/Institution-HOWEST-blue?style=flat-square)]()
 [![Course](https://img.shields.io/badge/Course-Cyber%20Security%20Essentials-orange?style=flat-square)]()
 
+## Contents
+
+- [Academic Context](#academic-context)
+- [Lab Overview](#lab-overview)
+- [Objectives](#objectives)
+- [Part 1: SQL Injection Web Application Pentest](#part-1-sql-injection-web-application-pentest)
+  - [Step-by-Step Exploitation](#step-by-step-exploitation)
+  - [SQL Injection Types Used](#sql-injection-types-used)
+  - [Risk Assessment](#risk-assessment)
+  - [Remediation Recommendations](#remediation-recommendations)
+- [Part 2: Network Traffic Analysis and Reconnaissance](#part-2-network-traffic-analysis--reconnaissance)
+  - [Shodan Reconnaissance](#shodan-reconnaissance)
+  - [Wireshark Packet Capture Analysis](#wireshark-packet-capture-analysis)
+  - [Combined Findings Summary](#combined-findings-summary)
+  - [Comprehensive Remediation](#comprehensive-remediation)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools and Technologies](#tools--technologies)
+- [Ethical and Legal Notice](#ethical--legal-notice)
+- [Key Lessons Learned](#key-lessons-learned)
+- [Author](#author)
+- [References](#references)
+
+
 ## 🎓 Academic Context
 
 **Institution:** Howest University of Applied Sciences  
@@ -448,7 +471,7 @@ Form item: "lpasswd" = "AcracadabraHocus PocusPats"
 **Packet Details:**
 
 ```text
-ource IP: 192.168.1.19
+Source IP: 192.168.1.19
 Destination IP: 193.191.179.114
 Protocol: HTTP (Port 80)
 Method: POST /login.php
@@ -685,7 +708,7 @@ As a cybersecurity professional, I now understand:
 
 **Muhammad Izaz Haider**  
 Cybersecurity Student @ Howest University of Applied Sciences  
-Junior DevSecOps & Ai Secuirty Engineer 
+Junior DevSecOps & Ai Security Engineer 
 Focus: Penetration Testing · OSINT · DevSecOps
 
 
@@ -717,38 +740,3 @@ Focus: Penetration Testing · OSINT · DevSecOps
   <i>"Starting from a simple login page, I escalated access using multiple attack vectors."</i><br>
   <i>"Cleartext protocols expose everything - encryption is not optional."</i>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
